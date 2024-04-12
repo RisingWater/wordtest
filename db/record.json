@@ -1,0 +1,866 @@
+[
+    {
+        "type": "普通小测",
+        "time": "2024/4/12 23:10:13",
+        "right": 6,
+        "total": 10,
+        "test": [
+            {
+                "id": 46,
+                "question": "mouth",
+                "answer": "嘴巴",
+                "attribution": "n",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "嘴巴",
+                "choices": [
+                    {
+                        "id": 1,
+                        "answer": "生日"
+                    },
+                    {
+                        "id": 56,
+                        "answer": "穿上"
+                    },
+                    {
+                        "id": 46,
+                        "answer": "嘴巴"
+                    },
+                    {
+                        "id": 27,
+                        "answer": "早的"
+                    }
+                ]
+            },
+            {
+                "id": 73,
+                "question": "kid",
+                "answer": "小孩",
+                "attribution": "n",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "小孩",
+                "choices": [
+                    {
+                        "id": 40,
+                        "answer": "妈妈"
+                    },
+                    {
+                        "id": 20,
+                        "answer": "喜欢"
+                    },
+                    {
+                        "id": 73,
+                        "answer": "小孩"
+                    },
+                    {
+                        "id": 51,
+                        "answer": "手臂"
+                    }
+                ]
+            },
+            {
+                "id": 77,
+                "question": "Children's day",
+                "answer": "儿童节",
+                "attribution": "n",
+                "right": 100,
+                "location": "三年级下册",
+                "result": false,
+                "selectAnswer": "运动鞋",
+                "choices": [
+                    {
+                        "id": 23,
+                        "answer": "葡萄"
+                    },
+                    {
+                        "id": 66,
+                        "answer": "运动鞋"
+                    },
+                    {
+                        "id": 8,
+                        "answer": "蛋糕"
+                    },
+                    {
+                        "id": 77,
+                        "answer": "儿童节"
+                    }
+                ]
+            },
+            {
+                "id": 69,
+                "question": "sweater",
+                "answer": "毛衣",
+                "attribution": "n",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "毛衣",
+                "choices": [
+                    {
+                        "id": 69,
+                        "answer": "毛衣"
+                    },
+                    {
+                        "id": 81,
+                        "answer": "小船"
+                    },
+                    {
+                        "id": 20,
+                        "answer": "喜欢"
+                    },
+                    {
+                        "id": 25,
+                        "answer": "跳"
+                    }
+                ]
+            },
+            {
+                "id": 24,
+                "question": "sweet",
+                "answer": "甜的",
+                "attribution": "adj",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "甜的",
+                "choices": [
+                    {
+                        "id": 32,
+                        "answer": "故事"
+                    },
+                    {
+                        "id": 70,
+                        "answer": "漂亮;美丽"
+                    },
+                    {
+                        "id": 61,
+                        "answer": "大的"
+                    },
+                    {
+                        "id": 24,
+                        "answer": "甜的"
+                    }
+                ]
+            },
+            {
+                "id": 15,
+                "question": "ride",
+                "answer": "骑",
+                "attribution": "v",
+                "right": 100,
+                "location": "三年级下册",
+                "result": false,
+                "selectAnswer": "大的",
+                "choices": [
+                    {
+                        "id": 61,
+                        "answer": "大的"
+                    },
+                    {
+                        "id": 16,
+                        "answer": "自行车"
+                    },
+                    {
+                        "id": 17,
+                        "answer": "滑冰"
+                    },
+                    {
+                        "id": 15,
+                        "answer": "骑"
+                    }
+                ]
+            },
+            {
+                "id": 18,
+                "question": "yes",
+                "answer": "是的",
+                "attribution": "other",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "是的",
+                "choices": [
+                    {
+                        "id": 18,
+                        "answer": "是的"
+                    },
+                    {
+                        "id": 39,
+                        "answer": "时间"
+                    },
+                    {
+                        "id": 69,
+                        "answer": "毛衣"
+                    },
+                    {
+                        "id": 41,
+                        "answer": "伦敦"
+                    }
+                ]
+            },
+            {
+                "id": 68,
+                "question": "shirt",
+                "answer": "衬衫",
+                "attribution": "n",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "衬衫",
+                "choices": [
+                    {
+                        "id": 68,
+                        "answer": "衬衫"
+                    },
+                    {
+                        "id": 53,
+                        "answer": "腿"
+                    },
+                    {
+                        "id": 81,
+                        "answer": "小船"
+                    },
+                    {
+                        "id": 11,
+                        "answer": "能"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "question": "buy",
+                "answer": "买",
+                "attribution": "v",
+                "right": 100,
+                "location": "三年级下册",
+                "result": false,
+                "selectAnswer": "",
+                "choices": [
+                    {
+                        "id": 9,
+                        "answer": "这里"
+                    },
+                    {
+                        "id": 34,
+                        "answer": "对不起"
+                    },
+                    {
+                        "id": 81,
+                        "answer": "小船"
+                    },
+                    {
+                        "id": 2,
+                        "answer": "买"
+                    }
+                ]
+            },
+            {
+                "id": 61,
+                "question": "big",
+                "answer": "大的",
+                "attribution": "adj",
+                "right": 100,
+                "location": "三年级下册",
+                "result": false,
+                "selectAnswer": "",
+                "choices": [
+                    {
+                        "id": 40,
+                        "answer": "妈妈"
+                    },
+                    {
+                        "id": 4,
+                        "answer": "给你"
+                    },
+                    {
+                        "id": 61,
+                        "answer": "大的"
+                    },
+                    {
+                        "id": 43,
+                        "answer": "眼睛"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "普通小测",
+        "time": "2024/4/12 23:51:05",
+        "right": 10,
+        "total": 10,
+        "test": [
+            {
+                "id": 28,
+                "question": "eleven",
+                "answer": "十一",
+                "attribution": "n",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "十一",
+                "choices": [
+                    {
+                        "id": 19,
+                        "answer": "不能"
+                    },
+                    {
+                        "id": 28,
+                        "answer": "十一"
+                    },
+                    {
+                        "id": 68,
+                        "answer": "衬衫"
+                    },
+                    {
+                        "id": 75,
+                        "answer": "一天;一日"
+                    }
+                ]
+            },
+            {
+                "id": 72,
+                "question": "hat",
+                "answer": "帽子",
+                "attribution": "n",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "帽子",
+                "choices": [
+                    {
+                        "id": 27,
+                        "answer": "早的"
+                    },
+                    {
+                        "id": 60,
+                        "answer": "号码"
+                    },
+                    {
+                        "id": 53,
+                        "answer": "腿"
+                    },
+                    {
+                        "id": 72,
+                        "answer": "帽子"
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "question": "swim",
+                "answer": "游泳",
+                "attribution": "v",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "游泳",
+                "choices": [
+                    {
+                        "id": 4,
+                        "answer": "给你"
+                    },
+                    {
+                        "id": 12,
+                        "answer": "游泳"
+                    },
+                    {
+                        "id": 60,
+                        "answer": "号码"
+                    },
+                    {
+                        "id": 29,
+                        "answer": "十二"
+                    }
+                ]
+            },
+            {
+                "id": 15,
+                "question": "ride",
+                "answer": "骑",
+                "attribution": "v",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "骑",
+                "choices": [
+                    {
+                        "id": 79,
+                        "answer": "踢足球"
+                    },
+                    {
+                        "id": 15,
+                        "answer": "骑"
+                    },
+                    {
+                        "id": 33,
+                        "answer": "迟的"
+                    },
+                    {
+                        "id": 39,
+                        "answer": "时间"
+                    }
+                ]
+            },
+            {
+                "id": 31,
+                "question": "home",
+                "answer": "家",
+                "attribution": "n",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "家",
+                "choices": [
+                    {
+                        "id": 52,
+                        "answer": "头"
+                    },
+                    {
+                        "id": 7,
+                        "answer": "足球"
+                    },
+                    {
+                        "id": 31,
+                        "answer": "家"
+                    },
+                    {
+                        "id": 32,
+                        "answer": "故事"
+                    }
+                ]
+            },
+            {
+                "id": 18,
+                "question": "yes",
+                "answer": "是的",
+                "attribution": "other",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "是的",
+                "choices": [
+                    {
+                        "id": 30,
+                        "answer": "点钟"
+                    },
+                    {
+                        "id": 31,
+                        "answer": "家"
+                    },
+                    {
+                        "id": 26,
+                        "answer": "表示否定"
+                    },
+                    {
+                        "id": 18,
+                        "answer": "是的"
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "question": "birthday",
+                "answer": "生日",
+                "attribution": "n",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "生日",
+                "choices": [
+                    {
+                        "id": 37,
+                        "answer": "这么多"
+                    },
+                    {
+                        "id": 31,
+                        "answer": "家"
+                    },
+                    {
+                        "id": 19,
+                        "answer": "不能"
+                    },
+                    {
+                        "id": 1,
+                        "answer": "生日"
+                    }
+                ]
+            },
+            {
+                "id": 39,
+                "question": "time",
+                "answer": "时间",
+                "attribution": "n",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "时间",
+                "choices": [
+                    {
+                        "id": 43,
+                        "answer": "眼睛"
+                    },
+                    {
+                        "id": 39,
+                        "answer": "时间"
+                    },
+                    {
+                        "id": 64,
+                        "answer": "运动"
+                    },
+                    {
+                        "id": 39,
+                        "answer": "时间"
+                    }
+                ]
+            },
+            {
+                "id": 40,
+                "question": "mom",
+                "answer": "妈妈",
+                "attribution": "n",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "妈妈",
+                "choices": [
+                    {
+                        "id": 50,
+                        "answer": "手"
+                    },
+                    {
+                        "id": 28,
+                        "answer": "十一"
+                    },
+                    {
+                        "id": 40,
+                        "answer": "妈妈"
+                    },
+                    {
+                        "id": 75,
+                        "answer": "一天;一日"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "question": "for you",
+                "answer": "给你",
+                "attribution": "other",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "给你",
+                "choices": [
+                    {
+                        "id": 34,
+                        "answer": "对不起"
+                    },
+                    {
+                        "id": 43,
+                        "answer": "眼睛"
+                    },
+                    {
+                        "id": 4,
+                        "answer": "给你"
+                    },
+                    {
+                        "id": 45,
+                        "answer": "鼻子"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "普通小测",
+        "time": "2024/4/12 23:53:01",
+        "right": 10,
+        "total": 10,
+        "test": [
+            {
+                "id": 74,
+                "question": "child",
+                "answer": "儿童",
+                "attribution": "n",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "儿童",
+                "choices": [
+                    {
+                        "id": 74,
+                        "answer": "儿童"
+                    },
+                    {
+                        "id": 67,
+                        "answer": "谁的"
+                    },
+                    {
+                        "id": 45,
+                        "answer": "鼻子"
+                    },
+                    {
+                        "id": 68,
+                        "answer": "衬衫"
+                    }
+                ]
+            },
+            {
+                "id": 29,
+                "question": "twelve",
+                "answer": "十二",
+                "attribution": "n",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "十二",
+                "choices": [
+                    {
+                        "id": 1,
+                        "answer": "生日"
+                    },
+                    {
+                        "id": 47,
+                        "answer": "耳朵"
+                    },
+                    {
+                        "id": 23,
+                        "answer": "葡萄"
+                    },
+                    {
+                        "id": 29,
+                        "answer": "十二"
+                    }
+                ]
+            },
+            {
+                "id": 39,
+                "question": "time",
+                "answer": "时间",
+                "attribution": "n",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "时间",
+                "choices": [
+                    {
+                        "id": 39,
+                        "answer": "时间"
+                    },
+                    {
+                        "id": 8,
+                        "answer": "蛋糕"
+                    },
+                    {
+                        "id": 38,
+                        "answer": "钟"
+                    },
+                    {
+                        "id": 48,
+                        "answer": "摸"
+                    }
+                ]
+            },
+            {
+                "id": 33,
+                "question": "late",
+                "answer": "迟的",
+                "attribution": "adj",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "迟的",
+                "choices": [
+                    {
+                        "id": 26,
+                        "answer": "表示否定"
+                    },
+                    {
+                        "id": 42,
+                        "answer": "脸"
+                    },
+                    {
+                        "id": 5,
+                        "answer": "贺卡"
+                    },
+                    {
+                        "id": 33,
+                        "answer": "迟的"
+                    }
+                ]
+            },
+            {
+                "id": 14,
+                "question": "run",
+                "answer": "跑步",
+                "attribution": "v",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "跑步",
+                "choices": [
+                    {
+                        "id": 79,
+                        "answer": "踢足球"
+                    },
+                    {
+                        "id": 14,
+                        "answer": "跑步"
+                    },
+                    {
+                        "id": 15,
+                        "answer": "骑"
+                    },
+                    {
+                        "id": 50,
+                        "answer": "手"
+                    }
+                ]
+            },
+            {
+                "id": 50,
+                "question": "hand",
+                "answer": "手",
+                "attribution": "n",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "手",
+                "choices": [
+                    {
+                        "id": 70,
+                        "answer": "漂亮;美丽"
+                    },
+                    {
+                        "id": 75,
+                        "answer": "一天;一日"
+                    },
+                    {
+                        "id": 31,
+                        "answer": "家"
+                    },
+                    {
+                        "id": 50,
+                        "answer": "手"
+                    }
+                ]
+            },
+            {
+                "id": 42,
+                "question": "face",
+                "answer": "脸",
+                "attribution": "n",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "脸",
+                "choices": [
+                    {
+                        "id": 42,
+                        "answer": "脸"
+                    },
+                    {
+                        "id": 17,
+                        "answer": "滑冰"
+                    },
+                    {
+                        "id": 34,
+                        "answer": "对不起"
+                    },
+                    {
+                        "id": 47,
+                        "answer": "耳朵"
+                    }
+                ]
+            },
+            {
+                "id": 25,
+                "question": "jump",
+                "answer": "跳",
+                "attribution": "v",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "跳",
+                "choices": [
+                    {
+                        "id": 27,
+                        "answer": "早的"
+                    },
+                    {
+                        "id": 37,
+                        "answer": "这么多"
+                    },
+                    {
+                        "id": 25,
+                        "answer": "跳"
+                    },
+                    {
+                        "id": 74,
+                        "answer": "儿童"
+                    }
+                ]
+            },
+            {
+                "id": 78,
+                "question": "fly",
+                "answer": "飞;放飞",
+                "attribution": "v",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "飞;放飞",
+                "choices": [
+                    {
+                        "id": 33,
+                        "answer": "迟的"
+                    },
+                    {
+                        "id": 78,
+                        "answer": "飞;放飞"
+                    },
+                    {
+                        "id": 34,
+                        "answer": "对不起"
+                    },
+                    {
+                        "id": 34,
+                        "answer": "对不起"
+                    }
+                ]
+            },
+            {
+                "id": 68,
+                "question": "shirt",
+                "answer": "衬衫",
+                "attribution": "n",
+                "right": 100,
+                "location": "三年级下册",
+                "result": true,
+                "selectAnswer": "衬衫",
+                "choices": [
+                    {
+                        "id": 27,
+                        "answer": "早的"
+                    },
+                    {
+                        "id": 47,
+                        "answer": "耳朵"
+                    },
+                    {
+                        "id": 3,
+                        "answer": "礼物"
+                    },
+                    {
+                        "id": 68,
+                        "answer": "衬衫"
+                    }
+                ]
+            }
+        ]
+    }
+]
